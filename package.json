@@ -10,5 +10,9 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
+	},
+	"author": {
+		"email": "mhdmuz4kk1r@gmail.com",
+		"name": "mhdmuz4kk1r"
 	}
 }
